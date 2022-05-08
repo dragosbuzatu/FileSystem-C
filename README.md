@@ -1,5 +1,5 @@
-# TextEditor-C
-Minimalist Text Editor in C
+# FileSystem-C
+Minimalist File System in C
 
 Using doubly linked list i created a minimalist system similar to linux.
 A function "touch" that creates a file , "mkdir" creates a folder and "ls"
